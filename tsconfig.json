@@ -33,7 +33,6 @@
         "**/*.tsx",
         ".next/types/**/*.ts"
     ],
-    "exclude": [
-        "node_modules"
-    ]
+  "exclude": ["blockchain", "hardhat", "**/hardhat.config.ts"]
+
 }
