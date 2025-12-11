@@ -43,3 +43,4 @@ typechain-types/
 node_modules/
 coverage/
 coverage.json
+blockchain/
